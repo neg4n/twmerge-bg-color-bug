@@ -1,0 +1,12 @@
+{
+  "name": "twmerge-bg-pos-merge-bug",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.2"
+  }
+}
